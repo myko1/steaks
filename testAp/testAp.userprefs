@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{8F18A368-FA49-423E-B38F-77BA2418C9C4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testAp/MainActivity.cs">
+    <Files>
+      <File FileName="testAp/MainActivity.cs" Line="9" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.testAp PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
